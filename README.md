@@ -5,6 +5,7 @@
 ## Introduction
 
 This Python script (`index-generator.py`) is an analysis and indexing tool designed to facilitate the searching and management of exported chat conversations in HTML format from imessage-exporter project.
+It was tested with "Desert Globemallow" imessage-exporter release (11/11/2025).
 
 It parses a folder filled with HTML conversation files (one file per contact/conversation), extracts key metadata (Contact Name, Last Message Date, Message Count), and generates a single interactive HTML index page (`index.html`).
 
